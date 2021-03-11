@@ -1,2 +1,20 @@
-# vue-temp-comm
-vue通用模板
+# vue-common-template
+vue版企业级通用框架
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
