@@ -1,4 +1,4 @@
-# vue-common-template
+# vue-template-common
 vue版企业级通用框架
 
 ## Project setup
