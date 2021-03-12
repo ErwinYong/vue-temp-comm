@@ -6,7 +6,7 @@ vue版企业级通用框架
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development :teda:
 ```
 npm run serve
 ```
